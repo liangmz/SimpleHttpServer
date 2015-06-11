@@ -1,3 +1,3 @@
 # SimpleHttpServer
 
-实现http协议中的一笑部分
+实现http协议中的一小部分
